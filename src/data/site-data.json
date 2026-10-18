@@ -7,9 +7,45 @@
     "address": "",
     "google_business_profile_url": "",
     "opening_hours": "",
-    "service_areas": ["Nagpur", "Pune", "Mumbai", "Thane", "Nashik", "Chhatrapati Sambhajinagar", "Amravati", "Akola", "Wardha", "Bhandara", "Chandrapur", "Indore", "Bhopal", "Jabalpur", "Chhindwara", "Ujjain", "Gwalior", "Sagar", "Seoni", "Betul"]
+    "service_areas": [
+      "Nagpur",
+      "Pune",
+      "Mumbai",
+      "Thane",
+      "Nashik",
+      "Chhatrapati Sambhajinagar",
+      "Amravati",
+      "Akola",
+      "Wardha",
+      "Bhandara",
+      "Chandrapur",
+      "Indore",
+      "Bhopal",
+      "Jabalpur",
+      "Chhindwara",
+      "Ujjain",
+      "Gwalior",
+      "Sagar",
+      "Seoni",
+      "Betul"
+    ]
   },
   "projects": [],
   "videos": [],
-  "testimonials": []
+  "testimonials": [
+    {
+      "id": "mvdzsmuz7yg88j",
+      "customer_name": "vnk",
+      "city": "Nagpur",
+      "service": "Terrace Waterproofing",
+      "rating": 5,
+      "review_text": "great seveoices",
+      "property_type": "Residential",
+      "published": true,
+      "display_order": 0,
+      "photo_asset": null,
+      "created_at": "2026-10-18T15:40:45.371Z",
+      "updated_at": "2026-10-18T15:41:43.849Z"
+    }
+  ]
 }
