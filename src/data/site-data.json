@@ -32,6 +32,37 @@
   },
   "projects": [
     {
+      "id": "mvy2zekg8a8fpd",
+      "slug": "madhaya-pradesh-panchayat",
+      "project_name": "Madhaya Pradesh Panchayat",
+      "location": "Chhindwara",
+      "service": "Terrace Waterproofing",
+      "category": "Roof",
+      "area": 2500,
+      "completion_date": "2025-03-08",
+      "description": "Successfully completed terrace waterproofing work at Madhaya Pradesh Panchayat, covering approximately 2500 sq. ft. Our team focused on providing a durable and reliable waterproofing solution to protect the building from water seepage and leakage.",
+      "problem": "The terrace required an effective waterproofing system to prevent water penetration, leakage and moisture-related damage to the building structure.",
+      "inspection": "Our technical team inspected the terrace surface, identified critical joints, cracks and vulnerable areas, and evaluated the surface condition before selecting the appropriate waterproofing system.\n",
+      "solution": "Proper surface preparation was carried out, followed by treatment of cracks and joints. A suitable waterproofing coating system was applied as per site requirements to ensure uniform coverage and effective protection.",
+      "result": "The terrace waterproofing work was completed with proper surface coverage and finishing, providing enhanced protection against water seepage and improving the durability of the structure.\n",
+      "published": true,
+      "before_photo": {
+        "url": "https://res.cloudinary.com/h8ezxu23/image/upload/v1793552711/tirupati-infracare/projects/1000815664.png",
+        "public_id": "tirupati-infracare/projects/1000815664",
+        "original_filename": "1000815664.png",
+        "content_type": "image/png",
+        "size": 1828734
+      },
+      "after_photo": {
+        "url": "https://res.cloudinary.com/h8ezxu23/image/upload/v1793552711/tirupati-infracare/projects/1000815664.png",
+        "public_id": "tirupati-infracare/projects/1000815664",
+        "original_filename": "1000815664.png",
+        "content_type": "image/png",
+        "size": 1828734
+      },
+      "created_at": "2026-11-01T17:05:23.583Z"
+    },
+    {
       "id": "mvy1g76fdwp90x",
       "slug": "max-hospital-mankapur",
       "project_name": "Max Hospital,Mankapur ",
@@ -63,7 +94,27 @@
       "created_at": "2026-11-01T16:22:27.926Z"
     }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "id": "mvy2zw90fpfims",
+      "title": "Max Hospital",
+      "description": "Successfully completed terrace waterproofing work at Max Hospital, Mankapur, Nagpur",
+      "service_category": "Terrace Waterproofing",
+      "location": "Nagpur",
+      "active": true,
+      "display_order": 0,
+      "video_asset": {
+        "url": "https://res.cloudinary.com/h8ezxu23/video/upload/v1793551955/tirupati-infracare/videos/1000821206_1.mp4",
+        "public_id": "tirupati-infracare/videos/1000821206_1",
+        "original_filename": "1000821206 (1).mp4",
+        "content_type": "video/mp4",
+        "size": 2032499
+      },
+      "thumbnail_asset": null,
+      "created_at": "2026-11-01T17:05:46.500Z",
+      "updated_at": "2026-11-01T17:05:46.500Z"
+    }
+  ],
   "testimonials": [
     {
       "id": "mvdzsmuz7yg88j",
