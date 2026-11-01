@@ -30,7 +30,39 @@
       "Betul"
     ]
   },
-  "projects": [],
+  "projects": [
+    {
+      "id": "mvy1g76fdwp90x",
+      "slug": "max-hospital-mankapur",
+      "project_name": "Max Hospital,Mankapur ",
+      "location": "Nagpur",
+      "service": "Terrace Waterproofing",
+      "category": "Terrace",
+      "area": 16000,
+      "completion_date": "2026-05-08",
+      "description": "Successfully completed terrace waterproofing work at Max Hospital, Mankapur, Nagpur, covering approximately 16,000 sq. ft. Our team focused on providing a durable and reliable waterproofing solution to protect the building from water seepage and leakage.\n",
+      "problem": "The terrace required an effective waterproofing system to prevent water penetration, leakage and moisture-related damage to the building structure.\n\n",
+      "inspection": "Our technical team inspected the terrace surface, identified critical joints, cracks and vulnerable areas, and evaluated the surface condition before selecting the appropriate waterproofing system.\n",
+      "solution": "Proper surface preparation was carried out, followed by treatment of cracks and joints. A suitable waterproofing coating system was applied as per site requirements to ensure uniform coverage and effective protection.\n",
+      "result": "The terrace waterproofing work was completed with proper surface coverage and finishing, providing enhanced protection against water seepage and improving the durability of the structure.\n",
+      "published": false,
+      "before_photo": {
+        "url": "https://res.cloudinary.com/h8ezxu23/image/upload/v1793550021/tirupati-infracare/projects/1000821220.jpg",
+        "public_id": "tirupati-infracare/projects/1000821220",
+        "original_filename": "1000821220.jpg",
+        "content_type": "image/jpeg",
+        "size": 140495
+      },
+      "after_photo": {
+        "url": "https://res.cloudinary.com/h8ezxu23/image/upload/v1793550144/tirupati-infracare/projects/1000821221.png",
+        "public_id": "tirupati-infracare/projects/1000821221",
+        "original_filename": "1000821221.png",
+        "content_type": "image/png",
+        "size": 2252723
+      },
+      "created_at": "2026-11-01T16:22:27.926Z"
+    }
+  ],
   "videos": [],
   "testimonials": [
     {
